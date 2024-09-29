@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...women
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...github
-- 📫 How to reach me ...email
+- 📫 How to reach me ... chrisjoshua182@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
