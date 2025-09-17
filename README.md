@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @chrisjay368
-- 👀 I’m interested in ...women
-- 🌱 I’m currently learning ...coding
-- 💞️ I’m looking to collaborate on ...github
+- 👋 Hi, I’m @chrisjaoshua182
+- 👀 I’m interested in ...Python coding and core Mathematics
+- 🌱 I’m currently learning ...Data Analysis
+- 💞️ I’m looking to collaborate on ...github and X
 - 📫 How to reach me ... chrisjoshua182@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
